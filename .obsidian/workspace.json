@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "6e8661189a6fd300",
+    "type": "split",
+    "children": [
+      {
+        "id": "59335e09afce5bf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30dfb57293c2d5fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0494880ce01cd850",
+    "type": "split",
+    "children": [
+      {
+        "id": "323253213cf770e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd0ed0293a367c12",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1a5b4bed1824c22e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "7cd5a5d0085491fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1b34b7d8b42b8f04",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb38b8a7578c9438",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "084ae27d9c211a97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "算法笔记/**干啥.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "**干啥 的反向链接列表"
+            }
+          },
+          {
+            "id": "ff6a6936a9c5b873",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "算法笔记/**干啥.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "**干啥 的出链列表"
+            }
+          },
+          {
+            "id": "2b784b26aae707a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "af90202b8cc44c46",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "eb6dba9442ce9666",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "算法笔记/归并排序.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "归并排序 的大纲"
+            }
+          },
+          {
+            "id": "43390f447db7780c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "43390f447db7780c",
+  "lastOpenFiles": [
+    "大创项目/申报/基本介绍.jpg",
+    "大创项目/申报/撰写思路与大纲.md",
+    "图片/270BAB2FC60E662E3E39F36D4F0CE06E 1.jpg",
+    "大创项目/资料/相关资料.md",
+    "大创项目/资料/学长申请表.pdf",
+    "大创项目/资料/lu57440a6iso.tmp",
+    "3_基于软件编程的无线电地图实测与校准 (1).docx",
+    "大创项目/资料/3_大模型辅助的辐射源定位与无线电地图构建 2.docx",
+    "大创项目/申报/3_基于软件编程的无线电地图实测与校准 (1).docx",
+    "大创项目/资料/3_大模型辅助的辐射源定位与无线电地图构建 1.docx",
+    "大创项目/资料/3_大模型辅助的辐射源定位与无线电地图构建.docx",
+    "大创项目/资料/3_基于软件编程的无线电地图实测与校准 (1).docx",
+    "未命名.base",
+    "大创项目/资料",
+    "RoboMaster学习资源/RCS19-Vision通识.md",
+    "RoboMaster学习资源/robomaster.md",
+    "RoboMaster学习资源/电控机械笔记.md",
+    "要背的话.md",
+    "图片/b9eeae9c956e777679ccf350565221a8~tplv-be4g95zd3a-image.jpeg",
+    "b9eeae9c956e777679ccf350565221a8~tplv-be4g95zd3a-image.jpeg",
+    "算法题解/动态规划/岩石分析法.md",
+    "算法题解/动态规划/未命名.md",
+    "算法题解/动态规划/最长自序列问题.md",
+    "算法题解/动态规划/01背包问题.md",
+    "算法题解/未命名.md",
+    "算法题解/欢迎.md",
+    "算法笔记/归并排序.md",
+    "图片/Pasted image 20260709112319.png",
+    "图片/Pasted image 20260709112309.png",
+    "图片/Pasted image 20260709112211.png",
+    "图片/Pasted image 20260709112115.png",
+    "图片/Pasted image 20260708230334.png",
+    "图片/Pasted image 20260708230252.png",
+    "RoboMaster学习资源/小学期自学内容/小学期自学指南.md",
+    "RoboMaster学习资源/小学期自学内容/RCS19-Vision通识.md",
+    "算法笔记/快速排序算法.md",
+    "算法笔记/快速选择算法.md",
+    "未命名.canvas",
+    "未命名 1.md",
+    "2026-07-03.md",
+    "算法笔记/**干啥.md",
+    "欢迎.md",
+    "创建链接.md"
+  ]
+}
