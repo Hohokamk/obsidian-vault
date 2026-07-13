@@ -13,31 +13,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大创项目/我的思路.md",
+                "file": "未命名.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "我的思路 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
-            "id": "147b38fd2b886f49",
+            "id": "33988e1d2845e519",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "大创项目/我的思路.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "我的思路"
+              "icon": "lucide-table",
+              "title": "未命名"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1b34b7d8b42b8f04",
@@ -211,10 +208,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "147b38fd2b886f49",
+  "active": "30dfb57293c2d5fe",
   "lastOpenFiles": [
-    "图片/Pasted image 20260628235157.png",
+    "未命名.base",
     "大创项目/我的思路.md",
+    "图片/Pasted image 20260628235157.png",
     "未命名",
     "大创项目/申报/基本介绍.jpg",
     "大创项目/申报/撰写思路与大纲.md",
@@ -228,7 +226,6 @@
     "大创项目/资料/3_大模型辅助的辐射源定位与无线电地图构建 1.docx",
     "大创项目/资料/3_大模型辅助的辐射源定位与无线电地图构建.docx",
     "大创项目/资料/3_基于软件编程的无线电地图实测与校准 (1).docx",
-    "未命名.base",
     "RoboMaster学习资源/RCS19-Vision通识.md",
     "RoboMaster学习资源/robomaster.md",
     "RoboMaster学习资源/电控机械笔记.md",
@@ -247,7 +244,6 @@
     "图片/Pasted image 20260709112211.png",
     "图片/Pasted image 20260709112115.png",
     "图片/Pasted image 20260708230334.png",
-    "图片/Pasted image 20260708230252.png",
     "RoboMaster学习资源/小学期自学内容/小学期自学指南.md",
     "RoboMaster学习资源/小学期自学内容/RCS19-Vision通识.md",
     "算法笔记/快速排序算法.md",
