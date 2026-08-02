@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网站搭建/学习内容.md",
+                "file": "电控培训/8.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "学习内容"
+              "title": "8.1"
             }
           }
         ],
@@ -71,7 +71,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -210,8 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,51 +228,52 @@
   },
   "active": "9e54fd618598bc22",
   "lastOpenFiles": [
-    "网站搭建/笔记.md",
-    "网站搭建/网页修改工作流.md",
-    "作业/题解集.md",
-    "~$基于软件编程的无线电地图实测与校准 (1).docx",
-    "图片/Pasted image 20260724112524.png",
-    "图片/Pasted image 20260723105348.png",
-    "图片/Pasted image 20260723105211.png",
-    "图片/Pasted image 20260723104731.png",
-    "图片/Pasted image 20260723104713.png",
-    "图片/Pasted image 20260722160133.png",
-    "Pasted image 20260731160549.png",
-    "图片/屏幕截图 2026-07-28 163500.png",
-    "图片/截图 2026-07-24 11-24-10.png",
-    "图片/截图 2026-07-24 11-24-10 1.png",
-    "图片/此处插入XMUOJ个人主页截图.md",
-    "我的规划/豆包对我的想法解读.md",
-    "电控培训/7.31.md",
-    "自学",
+    "屏幕截图 2026-08-02 191824.png",
+    "Pasted image 20260802193431.png",
+    "Pasted image 20260802193320.png",
+    "Pasted image 20260802193251.png",
+    "Pasted image 20260802191826.png",
+    "Pasted image 20260802173456.png",
+    "Pasted image 20260802173002.png",
+    "Pasted image 20260802172950.png",
+    "Pasted image 20260802172053.png",
+    "Pasted image 20260802171939.png",
+    "Pasted image 20260802171614.png",
+    "电控培训/8.2.md",
+    "电控培训/freertos/笔记.md",
+    "电控培训/freertos/8.1.md",
+    "电控培训/freertos/freertos.md",
+    "电控培训/8.1.md",
+    "电控培训/freertos",
+    "电控培训/freertos/FreeRTOS-教学方案.md",
+    "电控培训/笔记/code.md",
+    "电控培训/7.22.md",
+    "电控培训/7.23.md",
+    "电控培训/7.24.md",
     "电控培训/7.25.md",
     "电控培训/7.28.md",
     "电控培训/7.29.md",
     "电控培训/7.30.md",
+    "电控培训/7.31.md",
+    "网站搭建/学习内容.md",
+    "网站搭建/笔记.md",
+    "网站搭建/网页修改工作流.md",
+    "作业/题解集.md",
+    "~$基于软件编程的无线电地图实测与校准 (1).docx",
+    "图片/此处插入XMUOJ个人主页截图.md",
+    "我的规划/豆包对我的想法解读.md",
+    "自学",
     "作业/题解集 1.md",
     "此处插入XMUOJ个人主页截图.md",
     "蓝桥杯/简介.md",
     "未命名.md",
     "作业",
-    "本科预备项目/大创/2026第一批/黄炜.md",
-    "电控培训/7.24.md",
-    "电控培训/7.23.md",
-    "电控培训/7.22.md",
-    "大创项目/整体分析.md",
-    "大创项目/规划.md",
-    "电控培训/笔记/code.md",
     "电控培训/笔记",
-    "大创项目/申报/撰写思路与大纲.md",
     "培养方案/【计算机科学与技术】2022级本科培养方案.pdf",
     "大创项目/面试文件/2508.06956v2.pdf",
     "图片/imu_cum_cn.pdf",
     "图片/RoboMaster 开发板 C 型用户手册.pdf",
     "电控培训",
-    "自学/要学的东西.md",
-    "网站搭建/学习内容.md",
-    "本科预备项目/梦工厂.md",
-    "本科预备项目/攀登计划/攀登计划.pdf",
     "未命名.canvas"
   ]
 }
