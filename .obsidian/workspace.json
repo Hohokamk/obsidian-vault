@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电控培训/笔记/底层问题/8-3.md",
+                "file": "电控培训/笔记/freertos/外设任务/流水灯.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8-3"
+              "title": "流水灯"
             }
           }
         ],
@@ -228,9 +228,15 @@
   },
   "active": "9e54fd618598bc22",
   "lastOpenFiles": [
+    "电控培训/笔记/freertos/外设任务/中断回调.md",
+    "电控培训/笔记/freertos/外设任务/流水灯.md",
+    "电控培训/笔记/freertos/外设任务/按键.md",
+    "电控培训/笔记/底层问题/8-3.md",
+    "电控培训/笔记/freertos/外设任务",
+    "电控培训/笔记/未命名",
+    "Pasted image 20260803191148.png",
     "Pasted image 20260803185631.png",
     "电控培训/笔记/freertos/笔记.md",
-    "电控培训/笔记/底层问题/8-3.md",
     "电控培训/笔记/底层问题",
     "Pasted image 20260803172652.png",
     "Pasted image 20260803171834.png",
@@ -245,8 +251,6 @@
     "电控培训/8.1.md",
     "Pasted image 20260802201951.png",
     "Pasted image 20260802201935.png",
-    "Pasted image 20260802201919.png",
-    "Pasted image 20260802201909.png",
     "电控培训/笔记/freertos/FreeRTOS-教学方案.md",
     "电控培训/笔记/freertos/8.1.md",
     "电控培训/7.28.md",
@@ -266,14 +270,10 @@
     "图片/此处插入XMUOJ个人主页截图.md",
     "我的规划/豆包对我的想法解读.md",
     "自学",
-    "作业/题解集 1.md",
-    "此处插入XMUOJ个人主页截图.md",
     "作业",
     "电控培训/笔记",
     "培养方案/【计算机科学与技术】2022级本科培养方案.pdf",
     "大创项目/面试文件/2508.06956v2.pdf",
-    "图片/imu_cum_cn.pdf",
-    "图片/RoboMaster 开发板 C 型用户手册.pdf",
     "未命名.canvas"
   ]
 }
