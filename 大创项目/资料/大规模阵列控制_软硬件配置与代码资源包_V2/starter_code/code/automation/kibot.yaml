@@ -1,0 +1,26 @@
+kibot:
+  version: 1
+
+preflight:
+  run_erc: true
+  run_drc: true
+  check_zone_fills: true
+
+outputs:
+  - name: schematic_pdf
+    type: pdf_sch_print
+    dir: Schematic
+  - name: gerbers
+    type: gerber
+    dir: Gerbers
+  - name: drill
+    type: excellon
+    dir: Gerbers
+  - name: bom
+    type: bom
+    dir: BOM
+    options:
+      format: CSV
+  - name: position
+    type: position
+    dir: Position

@@ -1,0 +1,35 @@
+config_version: CFG-0.1
+array:
+  rows: 16
+  cols: 16
+  channels: 256
+  logical_order: row_major
+hardware:
+  channels_per_driver: 8
+  drivers_per_module: 8
+  channels_per_module: 64
+  modules: 4
+  chains: 1
+  driver: TLC6C598
+  safe_state: 0
+serialization:
+  bit_order_within_byte: lsb_first
+  byte_order_on_wire: physical_ascending
+  active_high_logical: true
+modules:
+  - id: 0
+    position: top_left
+    rotation_deg: 0
+  - id: 1
+    position: top_right
+    rotation_deg: 0
+  - id: 2
+    position: bottom_left
+    rotation_deg: 0
+  - id: 3
+    position: bottom_right
+    rotation_deg: 0
+# 初始假定逻辑索引与物理索引一致。
+# 真实PCB完成后，由逐点扫描修改 generated_mapping 或模块变换规则。
+mapping:
+  type: identity
