@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大创项目/王同学_三周突击学习计划.md",
+                "file": "大创项目/ai对话/8.20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "王同学_三周突击学习计划"
+              "title": "8.20"
             }
           }
         ],
@@ -197,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,6 +213,14 @@
   },
   "active": "f5a8110988564027",
   "lastOpenFiles": [
+    "{56A8E281-6950-4F46-98AD-543D126A58C3}.png",
+    "大创项目/规划.md",
+    "大创项目/ai对话/8.20.md",
+    "大创项目/王同学_三周突击学习计划.md",
+    "大创项目/整体分析.md",
+    "大创项目/面试文件/2508.06956v2.pdf",
+    "数学建模/2025年c题/OLS.md",
+    "数学建模/2025年c题/C题.pdf",
     "大创项目/starter_code_v2/host/__pycache__/protocol.cpython-314.pyc",
     "大创项目/starter_code_v2/host/protocol.py",
     "大创项目/starter_code_v2/host/__pycache__/patterns.cpython-314.pyc",
@@ -222,9 +229,6 @@
     "大创项目/starter_code_v2/host/patterns.py",
     "大创项目/starter_code_v2/config/array_config.yaml",
     "大创项目/starter_code_v2/tests",
-    "大创项目/starter_code_v2/host",
-    "大创项目/starter_code_v2/config",
-    "大创项目/starter_code_v2",
     "数学建模/学习/pandas.md",
     "数学建模/学习/numpy.md",
     "数学建模/学习/8.19.md",
@@ -247,8 +251,6 @@
     "自学/要学的东西.md",
     "自学/8.9.md",
     "数学建模/数模编程手3周突击计划.md",
-    "大创项目/王同学_三周突击学习计划.md",
-    "大创项目/规划.md",
     "折腾/网站搭建/网页修改工作流.md",
     "折腾/网站搭建/笔记.md",
     "折腾/网站搭建/学习内容.md",
@@ -257,9 +259,6 @@
     "大创项目/资料/大规模阵列控制_软硬件配置与代码资源包_V2/README.md",
     "大创项目/资料/软硬件配置与代码资源总索引.md",
     "大创项目/资料/相关资料.md",
-    "大创项目/资料/VALIDATION_V2.md",
-    "大创项目/资料/README-2.md",
-    "大创项目/资料/大规模阵列控制_软硬件配置与代码资源包_V2/VALIDATION_V2.md",
     "未命名.canvas"
   ]
 }
