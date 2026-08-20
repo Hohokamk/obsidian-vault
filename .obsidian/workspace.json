@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大创项目/ai对话/8.8.md",
+                "file": "数学建模/2025年c题/数据清理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.8"
+              "title": "数据清理"
+            }
+          },
+          {
+            "id": "f5a8110988564027",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大创项目/王同学_三周突击学习计划.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "王同学_三周突击学习计划"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 472.92858505249023
+    "width": 388.92858505249023
   },
   "right": {
     "id": "1b34b7d8b42b8f04",
@@ -182,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,21 +212,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e54fd618598bc22",
+  "active": "f5a8110988564027",
   "lastOpenFiles": [
-    "数学建模/资料/线性规划与整数规划方法(1).pdf",
-    "数学建模/资料/数学建模竞赛培训课表.docx",
-    "数学建模/资料/神经表示模型.pdf",
-    "数学建模/资料/偏微分方程(1).pdf",
-    "数学建模/资料/逻辑规则模型.pdf",
-    "数学建模/资料/回归相关数据处理.pdf",
-    "数学建模/资料/非线性规划.pdf",
-    "数学建模/资料/打字数据备份2026_8_9 00_49_31.dazidazi",
-    "数学建模/资料/打字数据备份2026_8_9 00_40_36.dazidazi",
-    "数学建模/资料/初等数据处理方法.pdf",
-    "数学建模/资料/常微分方程方法.pdf",
-    "{C6459F3D-4A3A-4771-8ADE-2063139C413D}.png",
+    "大创项目/starter_code_v2/host/__pycache__/protocol.cpython-314.pyc",
+    "大创项目/starter_code_v2/host/protocol.py",
+    "大创项目/starter_code_v2/host/__pycache__/patterns.cpython-314.pyc",
+    "大创项目/starter_code_v2/host/__pycache__",
+    "大创项目/starter_code_v2/host/arrayctl.py",
+    "大创项目/starter_code_v2/host/patterns.py",
+    "大创项目/starter_code_v2/config/array_config.yaml",
+    "大创项目/starter_code_v2/tests",
+    "大创项目/starter_code_v2/host",
+    "大创项目/starter_code_v2/config",
+    "大创项目/starter_code_v2",
+    "数学建模/学习/pandas.md",
+    "数学建模/学习/numpy.md",
+    "数学建模/学习/8.19.md",
+    "数学建模/2025年c题/数据清理.md",
+    "{94BF7F28-6E15-4E3D-A714-E73F56720346}.png",
+    "AI价格.md",
+    "{8F2295D7-4E97-4378-B907-C3F96FC8E63A}.png",
+    "{5F32C73F-4677-4559-9AFD-3DE574363455}.png",
+    "数学建模/2025年c题/建模.md",
+    "fe29878c97139b9515c3c776856b1022.png",
+    "数学建模/2025年c题/fe29878c97139b9515c3c776856b1022.png",
+    "数学建模/2025年c题/解题路线.md",
+    "{8DC91577-8AC8-49E3-A9E1-DD112D8893F7}.png",
+    "{F02F69A8-126E-4299-A1AA-6F8E36582A1E}.png",
+    "{EE743D91-A2E0-4207-ADAD-E5C6F98CCB5A}.png",
+    "数学建模/未命名.md",
+    "学科知识/离散数学/导入.md",
+    "{70318217-9279-4065-9919-BBD24E8CB623}.png",
+    "{349270AE-F770-441F-8154-8CFD7AC87AE1}.png",
+    "自学/要学的东西.md",
+    "自学/8.9.md",
+    "数学建模/数模编程手3周突击计划.md",
+    "大创项目/王同学_三周突击学习计划.md",
     "大创项目/规划.md",
+    "折腾/网站搭建/网页修改工作流.md",
+    "折腾/网站搭建/笔记.md",
+    "折腾/网站搭建/学习内容.md",
+    "大创项目/ai对话/8.9.md",
     "大创项目/ai对话/8.8.md",
     "大创项目/资料/大规模阵列控制_软硬件配置与代码资源包_V2/README.md",
     "大创项目/资料/软硬件配置与代码资源总索引.md",
@@ -218,32 +260,6 @@
     "大创项目/资料/VALIDATION_V2.md",
     "大创项目/资料/README-2.md",
     "大创项目/资料/大规模阵列控制_软硬件配置与代码资源包_V2/VALIDATION_V2.md",
-    "大创项目/整体分析.md",
-    "大创项目/申报/撰写思路与大纲.md",
-    "本科预备项目/实验室/空间感知与计算实验室ASC/CC77129EF38AA4E7A44EBCA63AD34E8D.jpg",
-    "大创项目/资料/大规模阵列控制_软硬件配置与代码资源包_V2/docs/00_复核结论与冻结基线.md",
-    "大创项目/资料/大规模阵列控制_软硬件配置与代码资源包_V2/docs/01_软硬件版本矩阵.md",
-    "我的规划/想法解读.md",
-    "大创项目/资料/大规模阵列控制_软硬件配置与代码资源包_V2/docs/06_Python上位机_协议与测试代码.md",
-    "大创项目/资料/撰写思路与大纲.md",
-    "大创项目/资料/大规模阵列控制_软硬件配置与代码资源包_V2/validation_artifacts/simulation/simulation_results/cuts.png",
-    "大创项目/资料/11_所有链接总表.md",
-    "大创项目/资料/13_代码资源逐文件解释.md",
-    "大创项目/资料/大规模阵列控制_软硬件配置与代码资源包_V2/docs/04_电源_PCB与信号完整性.md",
-    "大创项目/资料/大规模阵列控制_软硬件配置与代码资源包_V2/docs/02_STM32官方资源与代码复现.md",
-    "大创项目/资料/Camera_XHS_17830858553011040g00831kfl01502u3g4a5afjbliv80hmjjvv0.jpg",
-    "大创项目/资料/大规模阵列控制_软硬件配置与代码资源包_V2/starter_code/validation_output/simulation/simulation_results/cuts.png",
-    "大创项目/资料/大规模阵列控制_软硬件配置与代码资源包_V2/starter_code/templates/问题单模板.md",
-    "大创项目/资料/大规模阵列控制_软硬件配置与代码资源包_V2/starter_code/templates/实验报告模板.md",
-    "大创项目/资料/大规模阵列控制_软硬件配置与代码资源包_V2/starter_code/templates/周报模板.md",
-    "大创项目/资料/大规模阵列控制_软硬件配置与代码资源包_V2/starter_code/code/firmware/README.md",
-    "大创项目/资料/大规模阵列控制_软硬件配置与代码资源包_V2/starter_code/VALIDATION.md",
-    "大创项目/资料/大规模阵列控制_软硬件配置与代码资源包_V2/docs/14_资源下载_本地归档与许可证.md",
-    "大创项目/申报/基本介绍.jpg",
-    "图片/屏幕截图 2026-08-04 112401.png",
-    "图片/屏幕截图 2026-08-02 191824.png",
-    "图片/Pasted image 20260804175739.png",
-    "图片/Pasted image 20260804173151.png",
     "未命名.canvas"
   ]
 }
