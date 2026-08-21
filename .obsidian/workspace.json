@@ -11,32 +11,15 @@
             "id": "9e54fd618598bc22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "数学建模/2025年c题/数据清理.md",
-                "mode": "source",
-                "source": false
+                "file": "数学建模/2025年c题/C题.pdf"
               },
-              "icon": "lucide-file",
-              "title": "数据清理"
-            }
-          },
-          {
-            "id": "f5a8110988564027",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大创项目/ai对话/8.20.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8.20"
+              "icon": "lucide-file-text",
+              "title": "C题"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,12 +194,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5a8110988564027",
+  "active": "9e54fd618598bc22",
   "lastOpenFiles": [
-    "{56A8E281-6950-4F46-98AD-543D126A58C3}.png",
-    "大创项目/规划.md",
-    "大创项目/ai对话/8.20.md",
+    "数学建模/2025年c题/数据清理.md",
+    "Pasted image 20260809111305.png",
+    "fe29878c97139b9515c3c776856b1022.png",
+    "图片/Pasted image 20260809111305.png",
+    "图片/fe29878c97139b9515c3c776856b1022.png",
+    "图片/{F02F69A8-126E-4299-A1AA-6F8E36582A1E}.png",
+    "图片/{EE743D91-A2E0-4207-ADAD-E5C6F98CCB5A}.png",
+    "图片/{DE016DF6-A0D6-44FE-881B-FFFEDE4310F0}.png",
+    "图片/{C6459F3D-4A3A-4771-8ADE-2063139C413D}.png",
+    "图片/{70318217-9279-4065-9919-BBD24E8CB623}.png",
+    "图片/{349270AE-F770-441F-8154-8CFD7AC87AE1}.png",
+    "C题.pdf",
+    "C题 1.pdf",
     "大创项目/王同学_三周突击学习计划.md",
+    "AI价格.md",
+    "大创项目/整体分析 - 副本.md",
+    "大创项目/ai对话/8.20.md",
+    "大创项目/规划.md",
     "大创项目/整体分析.md",
     "大创项目/面试文件/2508.06956v2.pdf",
     "数学建模/2025年c题/OLS.md",
@@ -227,27 +224,13 @@
     "大创项目/starter_code_v2/host/__pycache__",
     "大创项目/starter_code_v2/host/arrayctl.py",
     "大创项目/starter_code_v2/host/patterns.py",
-    "大创项目/starter_code_v2/config/array_config.yaml",
-    "大创项目/starter_code_v2/tests",
     "数学建模/学习/pandas.md",
     "数学建模/学习/numpy.md",
     "数学建模/学习/8.19.md",
-    "数学建模/2025年c题/数据清理.md",
-    "{94BF7F28-6E15-4E3D-A714-E73F56720346}.png",
-    "AI价格.md",
-    "{8F2295D7-4E97-4378-B907-C3F96FC8E63A}.png",
-    "{5F32C73F-4677-4559-9AFD-3DE574363455}.png",
     "数学建模/2025年c题/建模.md",
-    "fe29878c97139b9515c3c776856b1022.png",
-    "数学建模/2025年c题/fe29878c97139b9515c3c776856b1022.png",
     "数学建模/2025年c题/解题路线.md",
-    "{8DC91577-8AC8-49E3-A9E1-DD112D8893F7}.png",
-    "{F02F69A8-126E-4299-A1AA-6F8E36582A1E}.png",
-    "{EE743D91-A2E0-4207-ADAD-E5C6F98CCB5A}.png",
     "数学建模/未命名.md",
     "学科知识/离散数学/导入.md",
-    "{70318217-9279-4065-9919-BBD24E8CB623}.png",
-    "{349270AE-F770-441F-8154-8CFD7AC87AE1}.png",
     "自学/要学的东西.md",
     "自学/8.9.md",
     "数学建模/数模编程手3周突击计划.md",
@@ -258,7 +241,6 @@
     "大创项目/ai对话/8.8.md",
     "大创项目/资料/大规模阵列控制_软硬件配置与代码资源包_V2/README.md",
     "大创项目/资料/软硬件配置与代码资源总索引.md",
-    "大创项目/资料/相关资料.md",
     "未命名.canvas"
   ]
 }
