@@ -1,0 +1,36 @@
+# ============================================
+# 大规模阵列控制 - 唯一配置文件
+# ============================================
+
+config_version: "1.0.0"
+
+array:
+  rows: 16
+  cols: 16
+  channels: 256
+
+hardware:
+  channels_per_driver: 8
+  drivers_per_module: 8
+  channels_per_module: 64
+  modules: 4
+  chains: 1
+  driver: "TLC6C598"
+
+serial:
+  port: "COM5"
+  baudrate: 115200
+  timeout: 1.0
+
+protocol:
+  sof: [0xA5, 0x5A]
+  version: 1
+  crc: "CRC16-CCITT"
+
+serialization:
+  bit_order_within_byte: "lsb_first"
+  byte_order_on_wire: "physical_ascending"
+  active_high_logical: true
+
+mapping:
+  type: "identity"

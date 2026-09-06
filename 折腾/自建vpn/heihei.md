@@ -18,7 +18,9 @@ CPU：单核
 4. 添加 velss-reality 节点
 5. 添加客户端配置
 6. 添加 cloudflare 反代
-
+7. cloudflare 证书申请 tls 加密
+8. 优选 ip(待定) ,xhttp 迁移
+9. warp 反代
 
 ![[Pasted image 20260824170658.png]]
 
@@ -27,4 +29,4 @@ CPU：单核
 
 
 
-配置节点：![[Pasted image 20260824133808.png]] ![[Pasted image 20260824230424.png]] ![[Pasted image 20260825092816.png]]
+配置节点：![[Pasted image 20260824133808.png]] ![[Pasted image 20260824230424.png]] ![[Pasted image 20260825092816.png]] ![[Pasted image 20260826105635.png]] ![[Pasted image 20260826111715.png]] ![[Pasted image 20260826111743.png]]
