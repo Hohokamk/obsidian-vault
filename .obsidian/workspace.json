@@ -8,88 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30dfb57293c2d5fe",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "电控培训/7.22.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "7.22 的大纲"
-            }
-          },
-          {
-            "id": "33988e1d2845e519",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "蓝桥杯/简介.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "简介"
-            }
-          },
-          {
-            "id": "9e54fd618598bc22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "电控培训/7.24.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7.24"
-            }
-          },
-          {
-            "id": "28b8b1d6c892f508",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "电控培训/7.24.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7.24"
-            }
-          },
-          {
-            "id": "cd302999d54c0230",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "电控培训/7.22.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7.22"
-            }
-          },
-          {
             "id": "87f4478dba9413cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "学科知识/2026下学期/计算机科学与技术导论/课程概述.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "课程概述"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.50312423706055
+    "width": 254.50312423706055
   },
   "right": {
     "id": "1b34b7d8b42b8f04",
@@ -248,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,19 +194,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd0ed0293a367c12",
+  "active": "87f4478dba9413cd",
   "lastOpenFiles": [
-    "图片/Pasted image 20260906135425.png",
-    "图片/Pasted image 20260904170616.png",
-    "图片/Pasted image 20260904170517.png",
-    "图片/Pasted image 20260903090829.png",
-    "图片/Pasted image 20260903090733.png",
-    "图片/Pasted image 20260902153857.png",
-    "图片/Pasted image 20260902102711.png",
-    "图片/Pasted image 20260902102652.png",
-    "图片/Pasted image 20260902095556.png",
-    "图片/Pasted image 20260902095423.png",
-    "图片/Pasted image 20260902092627.png",
+    "学科知识/2026下学期/计算机科学与技术导论/导入.md",
+    "学科知识/2026下学期/计算机科学与技术导论/计算机导论_1-绪论(1).pdf",
+    "学科知识/2026下学期/数据结构/课程说明.pdf",
+    "学科知识/2026下学期/数据结构/课程概述.md",
+    "Pasted image 20260907104849.png",
+    "Pasted image 20260907104839.png",
+    "Pasted image 20260907104818.png",
+    "Pasted image 20260907104806.png",
+    "学科知识/2026下学期/计算机科学与技术导论/课程概述.md",
+    "Pasted image 20260907104655.png",
+    "Pasted image 20260907104635.png",
+    "Pasted image 20260907104618.png",
+    "Pasted image 20260907104553.png",
+    "学科知识/2026下学期/未命名.md",
+    "Pasted image 20260907104130.png",
+    "我的规划/职业规划.md",
+    "学科知识/2026下学期/计算机科学与技术导论",
+    "我的规划/计算机科学与技术总观.md",
+    "我的规划/heihei7.md",
+    "大创项目/README.md",
+    "大创项目/申报/基本介绍.jpg",
+    "学科知识/2026下学期/数据结构/9.7导入.md",
+    "电控培训/7.22.md",
+    "学科知识/2026下学期/离散数学/导入.md",
+    "学科知识/2026下学期/数据结构",
+    "折腾/linux学习/arm linux/知识路线.md",
+    "电控培训/7.25.md",
+    "折腾/linux学习/arm linux",
+    "电控培训/7.24.md",
+    "电控培训/7.23.md",
+    "学科知识/2026下学期/aaa全部课程分析/离散数学.md",
+    "学科知识/2026下学期/aaa全部课程分析/计算机科学与技术导论.md",
+    "学科知识/2026下学期/课程总览.md",
     "作业/程序设计实践.md",
     "自学/调度器模拟/调度器模拟_导览.md",
     "自学/调度器模拟/scheduler_sim.py",
@@ -287,30 +240,7 @@
     "自学",
     "电控培训/笔记/底层问题/8-3.md",
     "电控培训/笔记/底层问题",
-    "电控培训/笔记/工程配置流程.md",
-    "电控培训/笔记/freertos/外设任务/流水灯.md",
-    "电控培训/笔记/freertos/外设任务/按键.md",
-    "电控培训/笔记/freertos/外设任务/中断回调.md",
-    "电控培训/笔记/freertos/笔记.md",
     "电控培训/笔记/freertos/外设任务",
-    "电控培训/笔记/freertos/freertos.md",
-    "电控培训/笔记/freertos/FreeRTOS-教学方案.md",
-    "电控培训/笔记/freertos/8.1.md",
-    "电控培训/笔记/freertos",
-    "电控培训/知识梳理_7.22-8.5.md",
-    "电控培训/9.4.md",
-    "电控培训/9.2.md",
-    "电控培训/8.5哨兵调车.md",
-    "电控培训/8.4.md",
-    "电控培训/8.2.md",
-    "电控培训/8.1.md",
-    "电控培训/7.31.md",
-    "电控培训/7.30.md",
-    "电控培训/7.29.md",
-    "数学建模/资料/非线性规划.pdf",
-    "数学建模/资料/逻辑规则模型.pdf",
-    "数学建模/资料/线性规划与整数规划方法(1).pdf",
-    "数学建模/资料/神经表示模型.pdf",
     "未命名.canvas"
   ]
 }
