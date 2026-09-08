@@ -2,7 +2,7 @@
 ssh 连接：ssh linaro@192.168.10.13
 创建文件树：
 文件编辑器： nano ~/workspace/ai_camera/src/main.py
-查询温度： cat /sys/class/thermal/thermal_zone 0/temp
+查询温度： paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | awk '{printf "%-22 s: %.1 f°C\n", $1, $2/1000}'
 常见命令：cat sudo 
 安装：更新和安装 python3 及依赖
 ==驱动摄像头==：
