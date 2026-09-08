@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学科知识/2026下学期/计算机科学导论/课程概述.md",
+                "file": "折腾/嵌入式Linux/heihei4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "课程概述"
+              "title": "heihei4"
             }
           }
         ],
@@ -211,8 +211,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd0ed0293a367c12",
+  "active": "85bc5fe2ba1dd8c8",
   "lastOpenFiles": [
+    "学科知识/2026下学期/计算机科学导论/课程概述.md",
     "图片/Pasted image 20260908145554.png",
     "图片/Pasted image 20260908102030.png",
     "图片/Pasted image 20260907201805.png",
@@ -223,7 +224,6 @@
     "图片/Pasted image 20260907104818.png",
     "图片/Pasted image 20260907104806.png",
     "图片/Pasted image 20260907104655.png",
-    "图片/Pasted image 20260907104635.png",
     "学科知识/2026下学期/计算机科学导论/计算机导论_1-绪论(1).pdf",
     "学科知识/2026下学期/计算机科学导论/9.7导入.md",
     "学科知识/2026下学期/数据结构/第2章 线性表.pdf",
@@ -246,7 +246,6 @@
     "折腾/超脑开发板/风格化相机/README.md",
     "折腾/超脑开发板/heihei6.md",
     "学科知识/2026下学期/数字信号处理",
-    "学科知识/2026下学期/计算机科学导论/课程概述.md",
     "学科知识/2026下学期/计算机科学与技术导论/导入.md",
     "学科知识/2026下学期/离散数学/导入.md",
     "折腾/超脑开发板/风格化相机/heihei5.md",
