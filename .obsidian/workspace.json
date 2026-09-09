@@ -25,14 +25,14 @@
             "id": "85bc5fe2ba1dd8c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "折腾/嵌入式Linux/heihei4.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "heihei4"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
@@ -213,6 +213,9 @@
   },
   "active": "85bc5fe2ba1dd8c8",
   "lastOpenFiles": [
+    "学科知识/2026下学期/离散数学/导入.md",
+    "学科知识/2026下学期/离散数学/9.7导入.md",
+    "折腾/嵌入式Linux/heihei4.md",
     "学科知识/2026下学期/计算机科学导论/课程概述.md",
     "图片/Pasted image 20260908145554.png",
     "图片/Pasted image 20260908102030.png",
@@ -231,7 +234,6 @@
     "学科知识/2026下学期/数据结构/课程说明.pdf",
     "学科知识/2026下学期/数据结构/第3章 栈和队列.pdf",
     "学科知识/2026下学期/数据结构/9.7导入.md",
-    "学科知识/2026下学期/离散数学/9.7导入.md",
     "conflict-files-obsidian-git.md",
     "折腾/超脑开发板/风格化相机/Phase2-风格路由接入.md",
     "学科知识/2026下学期/电子电力技术/学习指南.md",
@@ -247,7 +249,6 @@
     "折腾/超脑开发板/heihei6.md",
     "学科知识/2026下学期/数字信号处理",
     "学科知识/2026下学期/计算机科学与技术导论/导入.md",
-    "学科知识/2026下学期/离散数学/导入.md",
     "折腾/超脑开发板/风格化相机/heihei5.md",
     "电控培训/笔记/code.md",
     "大创项目/ai对话/整体分析.md",
