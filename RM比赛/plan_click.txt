@@ -1,0 +1,4 @@
+ERR 3.2.3 重装机器人 locator.click: Timeout 8000ms exceeded.
+Call log:
+[2m  - waiting for getByText('3.2.3 重装机器人').first()[22m
+

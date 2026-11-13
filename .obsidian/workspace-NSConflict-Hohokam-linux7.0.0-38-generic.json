@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "6e8661189a6fd300",
+    "type": "split",
+    "children": [
+      {
+        "id": "59335e09afce5bf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85bc5fe2ba1dd8c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学科知识/2026下学期/数据结构/10.21实验.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10.21实验"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0494880ce01cd850",
+    "type": "split",
+    "children": [
+      {
+        "id": "323253213cf770e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd0ed0293a367c12",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1a5b4bed1824c22e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "7cd5a5d0085491fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1b34b7d8b42b8f04",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb38b8a7578c9438",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "084ae27d9c211a97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "学科知识/2026下学期/离散数学/第一章/第一章 命题逻辑（无答案）.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "ff6a6936a9c5b873",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "算法笔记/**干啥.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "**干啥 的出链列表"
+            }
+          },
+          {
+            "id": "2b784b26aae707a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "af90202b8cc44c46",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "eb6dba9442ce9666",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "算法笔记/归并排序.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "归并排序 的大纲"
+            }
+          },
+          {
+            "id": "43390f447db7780c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "85bc5fe2ba1dd8c8",
+  "lastOpenFiles": [
+    "项目/法务agent协作平台/从浏览器到数据库：端口、前后端通信与认证入门.md",
+    "我的规划/个人发展规划.md",
+    "项目/法务agent协作平台/登录失败排查.md",
+    "项目/法务agent协作平台/10.29.md",
+    "项目/法务agent协作平台/10.26.md",
+    "项目/法务agent协作平台/10.28.md",
+    "自学/后端开发/10.28要点.md",
+    "Pasted image 20261028132057.png",
+    "自学/后端开发/10.28全局跑通.md",
+    "Pasted image 20261028114551.png",
+    "自学/后端开发/后端开发结构.md",
+    "Pasted image 20261028104417.png",
+    "Pasted image 20261028102856.png",
+    "Pasted image 20261028102204.png",
+    "自学/后端开发/wsl服务器.md",
+    "Pasted image 20261028093408.png",
+    "自学/日记/8.9.md",
+    "自学/日记",
+    "自学/小内容/SQL.md",
+    "自学/小内容/C++.md",
+    "自学/小内容/RTOS.md",
+    "自学/小内容/理论知识.md",
+    "自学/小内容",
+    "自学/终端/常用命令.md",
+    "项目/法务agent协作平台/本地docker部署.md",
+    "比赛/电赛/ai解答/基本介绍.md",
+    "学科知识/培养方案/选修课清单.md",
+    "学科知识/提前学/计算机组成原理.md",
+    "学科知识/提前学",
+    "学科知识/培养方案/【计算机科学与技术】培养方案（2022级）20230512定.docx",
+    "比赛/数学建模/题目/C题/附件/附件5/result4-3.xlsx",
+    "比赛/数学建模/题目/C题/附件/附件5/result4-2.xlsx",
+    "比赛/数学建模/题目/C题/附件/附件5/result3.xlsx",
+    "比赛/数学建模/题目/C题/附件/附件5/result2.xlsx",
+    "比赛/数学建模/题目/C题/附件/附件5/result1.xlsx",
+    "比赛/数学建模/题目/C题/附件/附件5",
+    "比赛/数学建模/学习/数模编程手3周突击计划.md",
+    "比赛/数学建模/学习/pandas.md",
+    "比赛/数学建模/学习/numpy.md",
+    "比赛/数学建模/学习/8.19.md",
+    "比赛/数学建模/分析/题意理解.md",
+    "比赛/数学建模/分析/解析.md",
+    "Pasted image 20261022232719.png",
+    "Pasted image 20261022232711.png",
+    "Pasted image 20261022091537.png",
+    "Pasted image 20261022084437.png",
+    "未命名.canvas"
+  ]
+}

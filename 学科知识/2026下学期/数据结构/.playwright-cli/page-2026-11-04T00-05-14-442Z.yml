@@ -1,0 +1,8 @@
+- generic [ref=e1]:
+  - generic [ref=e2]: 杭州・百腾教育
+  - generic [ref=e7]:
+    - generic [ref=e8]: 请耐心等待页面加载完成
+    - link "检查网络连接" [ref=e9] [cursor=pointer]:
+      - /url: http://s.pintia.cn
+    - link "访问备用线路" [ref=e10] [cursor=pointer]:
+      - /url: "?proxyCDN=1"

@@ -54,3 +54,11 @@
 - 笔记文件按日期命名（如 `9.14线性表.md`），放在课程根目录
 - 期望输出：结构化要点 + 表格 + 分级标题 + 记忆口诀 + 坑点标注
 - 偏好直接给结论，避免"可能/建议考虑"这类模糊措辞
+
+## PTA 抓取方法（可复用）
+
+PTA 是 SPA + 需登录，WebFetch 只会拿到空壳。可行路径：Playwright
+持久化 Chrome profile（`~/.workbuddy/cache/pta-profile2`）首登一次，之后复用 cookie。
+登录判定用 `ctx.cookies()`（PTASession 是 httpOnly，`document.cookie` 看不到）。
+接口：`/api/problem-sets/{psid}/exam-problem-list?exam_id=&problem_type=&page=0&limit=100`、
+`/api/problem-sets/{psid}/exam-problems/{pspId}`。脚本在 `~/.workbuddy/cache/pta-scrape/`。

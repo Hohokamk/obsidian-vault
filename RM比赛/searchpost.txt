@@ -1,0 +1,6 @@
+[
+ {
+  "url": "https://bbs.robomaster.com/developers-server/rest/search/page-posts-es-search-v2",
+  "post": "{\"pageSize\":15,\"pageNo\":1,\"filter\":{\"query\":\"\",\"sort\":\"relevance\",\"category\":\"ALL\"}}"
+ }
+]

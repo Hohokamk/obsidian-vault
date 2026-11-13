@@ -1,0 +1,32 @@
+[
+ {
+  "m": "POST",
+  "u": "https://bbs.robomaster.com/developers-server/rest/wiki/list",
+  "p": "{\"pageNo\":1,\"pageSize\":9999,\"filter\":{\"searchKey\":\"\"}}"
+ },
+ {
+  "m": "POST",
+  "u": "https://bbs.robomaster.com/developers-server/rest/comment/page",
+  "p": "{\"filter\":1973311,\"pageNo\":1,\"pageSize\":15}"
+ },
+ {
+  "m": "POST",
+  "u": "https://bbs.robomaster.com/developers-server/rest/wiki/category/all",
+  "p": null
+ },
+ {
+  "m": "POST",
+  "u": "https://bbs.robomaster.com/developers-server/rest/admin/enum/list/WikiShowTypeEn",
+  "p": null
+ },
+ {
+  "m": "POST",
+  "u": "https://bbs.robomaster.com/developers-server/rest/wiki/category/all",
+  "p": null
+ },
+ {
+  "m": "GET",
+  "u": "https://bbs.robomaster.com/developers-server/rest/draft/list?pageSize=100&pageNo=1",
+  "p": null
+ }
+]
